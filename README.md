@@ -8,6 +8,7 @@ This project explores the Bike Sharing Demand dataset from Kaggle. The objective
 Project Structure
 The project is organized as follows:
 
+('''
 bike-sharing-demand-kaggle-project/
 ├── data/
 │   ├── raw/                # Original dataset files (train.csv, test.csv, sampleSubmission.csv)
@@ -20,6 +21,8 @@ bike-sharing-demand-kaggle-project/
 ├── src/                    # Python scripts for data processing and analysis (optional)
 ├── .gitignore              # To exclude unnecessary files from version control
 ├── README.md               # Project overview and instructions
+
+''')
 
 Dataset
 The dataset contains hourly bike rental data for Washington, D.C., with features such as weather, season, and holidays.
