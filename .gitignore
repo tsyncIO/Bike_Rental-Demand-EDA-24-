@@ -1,1 +1,20 @@
 "# Ignored files and folders" 
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore data files (optional)
+data/raw/
+data/processed/
+
+# Ignore logs
+logs/
+
+# Ignore model artifacts
+models/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
